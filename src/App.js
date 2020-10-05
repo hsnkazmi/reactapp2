@@ -10,7 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
-       <h1>shah ka kmal</h1>
+       <h1>shah ka m kmal</h1>
       </header>
     </div>
   );
